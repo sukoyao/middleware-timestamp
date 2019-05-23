@@ -21,4 +21,4 @@ npm run dev
 ```
 
 成功連結後，瀏覽器輸入 http://localhost:3000
-終端機畫面即出現運行結果。# middleware-timestamp
+終端機畫面即出現運行結果。
